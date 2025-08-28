@@ -15,5 +15,3 @@ It automatically arranges images in rows, wraps them on smaller screens, and kee
 
 *Example of the gallery layout with Flexbox.*
 
-## Usage
-
